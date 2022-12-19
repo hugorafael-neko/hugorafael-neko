@@ -4,7 +4,7 @@ Hi 👋 My name is Hugo Rafael
 Full Stack Software Developer
 -----------------------------
 
-I'm a 19 years old developer since I was 14. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 19 years old developer since I was 14. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making entertainment apps and apps that make life easier for thousands of users.
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [hugoliveira4work@outlook.com](mailto:hugoliveira4work@outlook.com)
