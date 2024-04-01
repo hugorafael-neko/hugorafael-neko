@@ -4,13 +4,13 @@ Eai 👋 Me chamo Hugo Rafael
 Meu sonho é ser um Fullstack Developer
 -----------------------------
 
-Sou level 20 no rl, já upei meu status para casado junto da melhor pessoa desse mundo, estou tentando me encontrar, sempre busco várias areas onde eu possa criar coisas, e a programação sempre volta aos meus interesses
+Sou level 21 no RL, já upei meu status para casado junto da melhor pessoa desse mundo, estou tentando me encontrar, sempre busco várias areas onde eu possa criar coisas, e a programação sempre volta aos meus interesses
 
 * 🌍  Estou logado no servidor de Itapetininga, SP
 * ✉️  Você pode me mandar um email aqui: [hugoliveira4work@outlook.com](mailto:hugoliveira4work@outlook.com)
 * 🚀  Estou mexendo com projetos privados
 * 🧠  Estou mergulhando no Python, por agora
-* 🤝  Eu amo encontrar e resolver problemas
+* 🤝  Eu amo criar e arrumar 
 * ⚡  Não curto tanto esportes, mas adoro natação
 
 <a href="https://www.github.com/hugorafael-neko" target="_blank" rel="noreferrer"><img
